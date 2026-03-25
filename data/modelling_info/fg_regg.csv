@@ -1,0 +1,16 @@
+feature_group,group_size,cumulative_pve,to_be_used_pcs
+"['precipitation_sum7', 'precipitation_std7']",2,"[0.9635903670948435, 1.0]",1
+"['precipitation_sum3', 'precipitation_std3']",2,"[0.9519504301550225, 0.9999999999999999]",1
+"['wind_speed_10m_lag2', 'wind_speed_10m_avg3']",2,"[0.9269007706676774, 0.9999999999999999]",1
+"['EHI_accl_lag3', 'EHI_accl_lag4']",2,"[0.9302000255077699, 1.0]",1
+"['DMT_std3', 'tmax_std3']",2,"[0.9459727593038323, 1.0]",1
+"['pressure_msl_lag1', 'pressure_msl_lag2', 'pressure_msl_avg3']",3,"[0.909740388413776, 0.9902699932238705, 1.0]",1
+"['pressure_msl_lag3', 'pressure_msl_avg7']",2,"[0.8955354159430747, 0.9999999999999999]",1
+"['DMT_std7', 'tmin_std7', 'tmax_std7', 'EHI_sig_std7']",4,"[0.871257895032853, 0.9461741317268824, 0.9979011807421201, 1.0000000000000002]",1
+"['EHF_lag3', 'EHF_avg3', 'EHF_avg7']",3,"[0.9143955048675078, 0.9651845997143979, 0.9999999999999999]",1
+"['EHF_lag4', 'EHF_lag5']",2,"[0.9182199172946198, 1.0000000000000002]",1
+"['apparent_temperature_lag365', 'wet_bulb_temperature_2m_lag365', 'DMT_lag365', 'tmin_lag365', 'tmax_lag365', 'EHI_sig_lag365']",6,"[0.9142319788091027, 0.9536737377878152, 0.9790233520278588, 0.9971982044770165, 0.9999999999999999, 0.9999999999999999]",1
+"['relative_humidity_2m_lag2', 'relative_humidity_2m_lag3', 'relative_humidity_2m_avg3', 'relative_humidity_2m_avg7']",4,"[0.8578803379247935, 0.9383361061310992, 0.989492906306683, 0.9999999999999999]",2
+"['shortwave_radiation_lag1', 'shortwave_radiation_lag2', 'shortwave_radiation_lag3', 'shortwave_radiation_lag365', 'shortwave_radiation_avg3', 'shortwave_radiation_avg7']",6,"[0.8869899053828543, 0.9340375799577101, 0.9686551813689673, 0.9921083011517667, 1.0, 1.0]",2
+"['apparent_temperature_lag1', 'apparent_temperature_lag2', 'apparent_temperature_lag3', 'wet_bulb_temperature_2m_lag1', 'wet_bulb_temperature_2m_lag2', 'wet_bulb_temperature_2m_lag3', 'DMT_lag1', 'DMT_lag2', 'DMT_lag3', 'tmin_lag1', 'tmin_lag2', 'tmin_lag3', 'tmax_lag1', 'tmax_lag2', 'tmax_lag3', 'EHI_sig_lag3', 'EHI_sig_lag4', 'EHI_sig_lag5', 'DMT_avg3', 'DMT_avg7', 'tmin_avg3', 'tmin_avg7', 'tmax_avg3', 'tmax_avg7', 'EHI_sig_avg3', 'EHI_sig_avg7', 'DMT_month_mean', 'tmin_month_mean', 'tmax_month_mean', 'EHF_month_mean', 'EHI_sig_month_mean', 'relative_humidity_2m_month_mean']",32,"[0.8383360074392441, 0.8886998580521301, 0.935178327920015, 0.9502407258618202, 0.9622820143519375, 0.9700068751859774, 0.9769087635958404, 0.9834905642477058, 0.9876105302701441, 0.9910635788052464, 0.9935494135718369, 0.9949734172853789, 0.9960354551896916, 0.9970306488322463, 0.9978779454219544, 0.9986537559987323, 0.9991338173323829, 0.9995750902888882, 0.9998172050595128, 0.99994360640089, 0.9999895209666031, 0.999996129501306, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]",3
+[],0,,0
