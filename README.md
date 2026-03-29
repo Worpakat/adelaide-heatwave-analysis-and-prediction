@@ -1,6 +1,6 @@
 # Adelaide Heatwave Analysis and Prediction
 
-Australia Adelaide 1958-2024 heatwave analyses and 2000-2024 heatwave prediction project.
+Australia Adelaide 1958-2024 heatwave analyses and 2000-2024 heatwave prediction study.
 
 This project explores heatwave dynamics in Adelaide, Australia by combining data analysis with machine learning techniques. We collect and process historical meteorological data (1958–2024), define heatwave events based on the technical criteria provided by the Australian Bureau of Meteorology and associated research sources, and analyze their temporal and statistical characteristics.
 
